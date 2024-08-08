@@ -1,0 +1,23 @@
+ul li a
+{
+    color: red;
+    font-size: 20px;
+    
+}
+ul li a:hover
+{
+    color: black;
+    text-decoration: none;
+}
+ul li
+{
+    margin-top: 10px;
+}
+ol > li
+{
+    color: red;
+}
+ol > ul
+{
+    color: blue;
+}
